@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/NNPvZPN/Smart-TV.png",
+    "name": "Smart TV"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/TWjf97S/Smartphone.png",
+    "name": "Smartphone"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/dLTB1y1/Tab.png",
+    "name": "Tab"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/02ZzXk1/Laptop.png",
+    "name": "Laptop"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/J3D5Q0m/Smartwatch.png",
+    "name": "Smartwatch"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/bLPfxN2/Gadgets.png",
+    "name": "Gadgets"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/pnMgBny/Sound-Applicance.png",
+    "name": "Sound Applicant"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/ZLw0gXp/Household-Device.png",
+    "name": "Household Device"
+  }
+]

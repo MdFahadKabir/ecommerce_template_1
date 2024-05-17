@@ -1,0 +1,100 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "imageSrc": "https://i.ibb.co/W3zz9PN/iphone.png",
+      "title": "Smartphone X",
+      "price": 59999,
+      "discountedPrice": 49999,
+      "description": "Smartphone X features a sleek design and powerful performance. It comes with advanced camera capabilities and long-lasting battery life."
+    },
+    {
+      "id": 2,
+      "imageSrc": "https://i.ibb.co/SxxqxwV/mac.png",
+      "title": "Laptop Y",
+      "price": 129999,
+      "discountedPrice": 119999,
+      "description": "Laptop Y is a high-performance laptop suitable for both work and entertainment. It offers fast processing speeds and stunning graphics."
+    },
+    {
+      "id": 3,
+      "imageSrc": "https://i.ibb.co/rpsGXW7/watch.png",
+      "title": "Smartwatch Z",
+      "price": 19999,
+      "discountedPrice": 17999,
+      "description": "Smartwatch Z combines style with functionality. It tracks your daily activities and provides notifications right on your wrist."
+    },
+    {
+      "id": 4,
+      "imageSrc": "https://i.ibb.co/FW671yj/ipad.png",
+      "title": "Tablet A",
+      "price": 34999,
+      "discountedPrice": 29999,
+      "description": "Tablet A is a versatile device suitable for work, entertainment, and creativity. It offers a large display and smooth performance."
+    },
+    {
+      "id": 5,
+      "imageSrc": "https://i.ibb.co/4SXZP5T/headset.png",
+      "title": "Wireless Headphones B",
+      "price": 14999,
+      "discountedPrice": 12999,
+      "description": "Wireless Headphones B deliver immersive sound quality and comfortable wear. They feature active noise cancellation for an uninterrupted listening experience."
+    },
+    {
+      "id": 6,
+      "imageSrc": "https://i.ibb.co/SxxqxwV/mac.png",
+      "title": "Gaming Console C",
+      "price": 39999,
+      "discountedPrice": 34999,
+      "description": "Gaming Console C is built for gaming enthusiasts. It offers stunning graphics and seamless gameplay for an immersive gaming experience."
+    },
+    {
+      "id": 7,
+      "imageSrc": "https://i.ibb.co/FW671yj/ipad.png",
+      "title": "Digital Camera D",
+      "price": 79999,
+      "discountedPrice": 74999,
+      "description": "Digital Camera D captures moments with stunning clarity and detail. It offers advanced features for both beginners and professional photographers."
+    },
+    {
+      "id": 8,
+      "imageSrc": "https://i.ibb.co/4SXZP5T/headset.png",
+      "title": "VR Headset E",
+      "price": 24999,
+      "discountedPrice": 21999,
+      "description": "VR Headset E transports you to virtual worlds with immersive experiences. It offers a wide field of view and comfortable wear for extended gaming sessions."
+    },
+    {
+      "id": 9,
+      "imageSrc": "https://i.ibb.co/SxxqxwV/mac.png",
+      "title": "External Hard Drive F",
+      "price": 12999,
+      "discountedPrice": 10999,
+      "description": "External Hard Drive F provides reliable storage solutions for your data. It offers high-speed data transfer and durable construction."
+    },
+    {
+      "id": 10,
+      "imageSrc": "https://i.ibb.co/FW671yj/ipad.png",
+      "title": "Smart Speaker G",
+      "price": 7999,
+      "discountedPrice": 26999,
+      "description": "Smart Speaker G is your smart assistant for home entertainment. It offers voice control and high-quality sound for music and smart home control."
+    },
+    {
+      "id": 11,
+      "imageSrc": "https://i.ibb.co/rpsGXW7/watch.png",
+      "title": "Fitness Tracker H",
+      "price": 12999,
+      "discountedPrice": 19999,
+      "description": "Fitness Tracker H helps you stay active and healthy. It tracks your daily activities, heart rate, and sleep patterns to help you achieve your fitness goals."
+    },
+    {
+      "id": 12,
+      "imageSrc": "https://i.ibb.co/W3zz9PN/iphone.png",
+      "title": "Wireless Mouse I",
+      "price": 3999,
+      "discountedPrice": 52999,
+      "description": "Wireless Mouse I offers precise control and ergonomic design for comfortable use. It connects seamlessly to your devices for smooth navigation."
+    }
+  ]
+}
